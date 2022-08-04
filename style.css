@@ -1,0 +1,46 @@
+img {
+    width: 80px;
+    border-radius: 10px;
+    margin-left: 40px;
+
+}
+h1  {
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+
+}
+p {color: green;
+    font-size: large;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+h2 {color: black;
+    font-size: medium;
+    font-weight: bold;
+
+}
+
+h3 {
+    color: black;
+        font-size: medium;
+        font-weight: bold;
+}
+h4 {
+    color: black;
+        font-size: medium;
+        font-weight: bold;
+}
+h5 {
+    color: black;
+        font-size: medium;
+        font-weight: bold;
+}
+
+h6 {
+    color: black;
+        font-size: medium;
+        font-weight: bold;
+}
